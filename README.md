@@ -247,18 +247,23 @@ The app requires a physical Bluetooth glove. For development without hardware:
 
 ## 🚧 Future Enhancements
 
-- [ ] Support for full alphabet (26 letters)
+- [x] Support for full alphabet (26 letters)
 - [ ] Word-level predictions
-- [ ] Gesture recording and training
-- [ ] Multi-user profiles
+- [x] Gesture recording and training
+- [x] Multi-user profiles
 - [ ] Cloud sync for conversation history
-- [ ] Bluetooth LE support
-- [ ] Background service for persistent connection
+- [x] Bluetooth LE support
+- [x] Background service for persistent connection
 
 ## 👥 Contributors
 
 **Senior Design Project Group 9**
-- Team members and roles
+*Team members and roles*
+- Raul Chavez
+- Marc Louis
+- Madison Peterkin
+- Davaney Pierre
+- Jordan Wray
 
 ## 📄 License
 
